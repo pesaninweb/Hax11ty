@@ -25,7 +25,7 @@ curl -fsSL https://raw.githubusercontent.com/haxtheweb/hax11ty/master/hax11tyme.
 ```
 
 
-## Starting the repo usage
+## Starting the repo penggunaan 
 
 - Clone the repo / use it as a template
 - `npm install`
